@@ -8,9 +8,9 @@
 	<h1>意见反馈</h1>
 	<p>请填写下列信息</p>
 	<form action="processfeedback.php" method="post">
-		姓名<br><input type="text" name="name"/><br>
-		邮箱<br><input type="text" name="email"/><br>
-		意见<br>
+		姓名:<br><input type="text" name="name"/><br>
+		邮箱:<br><input type="text" name="email"/><br>
+		意见:<br>
 			<textarea name="feedback" id="" cols="20" rows="5"></textarea>
 		<br>
 		<input type="submit" value="提交" />
